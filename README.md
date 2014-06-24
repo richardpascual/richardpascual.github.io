@@ -1,4 +1,4 @@
 richardpascual.github.io
 =======================
 
-A dialogue of the professional experience and portfolio of things made by Inventor-Developer Rich G. Pascual
+My CV/Resume and an interactive portfolio of my work... 
