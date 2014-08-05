@@ -1,7 +1,12 @@
+---
+title: resume-online
+layout: post
+---
+
 # RICHARD PASCUAL
-** Software Engineer and Database Developer **
+**Software Engineer and Database Developer **
 [pascualrg1@gmail.com](mailto:pascualrg1@gmailcom)
-**(925) 223-7166 **
+**(925) 123-4455**
 
 
 SUMMARY OF QUALIFICATIONS
