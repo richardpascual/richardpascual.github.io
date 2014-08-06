@@ -59,16 +59,13 @@ To check the output to the exception log:
         select * from errlog;
 		
 		
-<div align="center">![Results from the simple errlog output](1)</div>		
+<div align="center">![[images/errlog-simple-output.jpg]]</div>		
 
 
 This is what the output of the table content looks like, showing the exception thrown and also recording the two optional text fields specified by the package design.  These fields work well for self-identification, so that the object that fails has a way of naming itself when the exception log is populated.
 		
 
 
-		
 
-[1]:http://richardpascual.github.io/images/errlog-simple-output.jpg
-		
         		
 		
