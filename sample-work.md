@@ -82,7 +82,7 @@ Some personally filtered and edited work includes samples from purchased private
 [The coffee Blog: http://iwantmorecoffee.com](http://iwantmorecoffee.com)
 
 
-<div align="center"><img src="images/coffee-blog-page.JPG"></div>
+<div align="center"><img src="images/coffeeblog-page.JPG"></div>
 
 
 
