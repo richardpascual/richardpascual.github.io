@@ -53,6 +53,7 @@ Paired with my professional blog of the same name, I use this as an ongoing and 
 <div align="center"><img src="images/uglysql-page.JPG"></div>
 
 
+
 ##Side Projects:  Current Websites Maintained##
 
 I maintain multiple online blogs and websites on different platforms.  I customize the look and design of each blog, write or curate content sourced ethically with proper attribution and from sources with clear licensing rights.
@@ -69,6 +70,7 @@ My interest in online and offline marketing techniques targeting small and mediu
 <div align="center"><img src="images/rogue-local-page.JPG"></div>
 
 
+
 **I Want More Coffee**
 
 Another dot-com project I developed.  Made instead on the `Google Blogger` Platform, the design is from a Google stock template with _Creative Commons_ sourced images.  The work is a mix of personal reflections on various topics (tagged:  **coffee-chat**) as well as edited and remixed content on the topics of coffee history, culture and folklore from around the world.  
@@ -80,7 +82,7 @@ Some personally filtered and edited work includes samples from purchased private
 [The coffee Blog: http://iwantmorecoffee.com](http://iwantmorecoffee.com)
 
 
-<div align="center"><img src=images/coffee-blog-page.JPG></div>
+<div align="center"><img src="images/coffee-blog-page.JPG"></div>
 
 
 
