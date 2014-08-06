@@ -3,7 +3,7 @@ title: demo-exception-handler
 layout: post
 ---
 
-# Sample Work for `richpascual`
+# Sample Work for _richpascual_
 
 ## Oracle PL/SQL Exception Handler
 
@@ -30,9 +30,9 @@ This is a sample Oracle PL/SQL stored procedure with two insert statements again
         VALUES ( 1, 'ROSCOE PICO', to_date('15-AUG-1995','DD-MON-YYYY'), sysdate, null);
         COMMIT;
 
-        EXCEPTION<br>
-           WHEN Others THEN<br>
-              err.handle ( detail => 'DOJ_ERROR_TEST_INPUT',<br> 
+        EXCEPTION
+           WHEN Others THEN
+              err.handle ( detail => 'DOJ_ERROR_TEST_INPUT',
 			                 info => 'Test demo for my 1.0 version release.' );
 
         END;
@@ -59,7 +59,7 @@ To check the output to the exception log:
         select * from errlog;
 		
 		
-<div align="center">![Results from the simple errlog output][1]</div>		
+<div align="center">![Results from the simple errlog output](1)</div>		
 
 
 This is what the output of the table content looks like, showing the exception thrown and also recording the two optional text fields specified by the package design.  These fields work well for self-identification, so that the object that fails has a way of naming itself when the exception log is populated.
