@@ -3,18 +3,18 @@ title: sample-work
 layout: post
 ---
 
-# Sample Work for _richpascual_<br>
+# Sample Work for _richpascual_
 
-## Open Source Projects Authored:<br>
+## Open Source Projects Authored:
 
-**Oracle PL/SQL Exception Handler:**<br>
+**Oracle PL/SQL Exception Handler:**
 
-This project was an adaption from a conceptual example first presented through an _O'Reilly Guide_ on the topic of programming reusable modules with PL/SQL.  I made this one on a locally hosted instance (my laptop) of Oracle Express (XE), although I have developed working variations of this code on the Enterprise Edition platform.<br>
+This project was an adaption from a conceptual example first presented through an _O'Reilly Guide_ on the topic of programming reusable modules with PL/SQL.  I made this one on a locally hosted instance (my laptop) of Oracle Express (XE), although I have developed working variations of this code on the Enterprise Edition platform.
 
-[Github Project:  ora-exception-handler](https://github.com/richardpascual/ora-exception-handler)<br>
+[Github Project:  ora-exception-handler](https://github.com/richardpascual/ora-exception-handler)
 
 
-**_The Implementation (basic):_** A package with multiple output options for tracking errors encountered during the development process of PL/SQL blocks of code.  No need to trap for individual exception conditions as all standard PL/SQL "ORA-" based error conditions are accounted for dynamically.<br>
+**_The Implementation (basic):_** A package with multiple output options for tracking errors encountered during the development process of PL/SQL blocks of code.  No need to trap for individual exception conditions as all standard PL/SQL "ORA-" based error conditions are accounted for dynamically.
 
         --
         -- **ora-exception-handler**: Usage Pattern Example 
@@ -50,7 +50,7 @@ Paired with my professional blog of the same name, I use this as an ongoing and 
 [Github Repository:  Project UGLYSQL](https://github.com/richardpascual/uglysql)<br>
 [Professional Blog @ UglySQL](http://uglysql.com)<br>
 
-<div align="center">![The UglySQL.com Front Page][1]</div>
+<div align="center"><img src="images/uglysql-page.JPG"></div>
 
 
 ##Side Projects:  Current Websites Maintained##
@@ -66,7 +66,7 @@ My interest in online and offline marketing techniques targeting small and mediu
 
 [Roguish Mumbling:  The Localbizgenius](http://rogue.localbizgenius.com)
 
-<div align="center">![Roguish Mumbling: Marketing Consultants Anonymous][2]</div>
+<div align="center"><img src="images/rogue-local-page.JPG"></div>
 
 
 **I Want More Coffee**
@@ -80,7 +80,7 @@ Some personally filtered and edited work includes samples from purchased private
 [The coffee Blog: http://iwantmorecoffee.com](http://iwantmorecoffee.com)
 
 
-<div align="center">![Can't Get Enough Coffee!][3]</div>
+<div align="center"><img src=images/coffee-blog-page.JPG></div>
 
 
 
@@ -130,9 +130,6 @@ This discussion from a response I posted to _Stack Overflow_ explored the idea o
 
 
 
-[1]:http://richardpascual.github.io/images/uglysql-page.jpg
-[2]:http://richardpascual.github.io/images/rogue-local-page.jpg
-[3]:http://richardpascual.github.io/images/coffee-blog-page.jpg
 
 
 
