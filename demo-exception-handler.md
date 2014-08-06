@@ -1,5 +1,6 @@
 ---
 title: demo-exception-handler
+layout: post
 ---
 
 # Sample Work for `richpascual`<br>

@@ -1,5 +1,6 @@
 ---
 title: sample-work
+layout: post
 ---
 
 # Sample Work for `richpascual`<br>

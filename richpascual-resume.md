@@ -4,6 +4,7 @@ layout: post
 ---
 
 # RICHARD PASCUAL<br>
+
 ## Software Engineer and Database Developer<br>
 [pascualrg1@gmail.com](mailto:pascualrg1@gmailcom)<br>
 **(510) 600-3178** (Google-Voice Number)<br>
