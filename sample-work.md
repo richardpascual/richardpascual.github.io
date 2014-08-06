@@ -135,3 +135,4 @@ This discussion from a response I posted to _Stack Overflow_ explored the idea o
 [3]:http://richardpascual.github.io/images/coffee-blog-page.jpg
 
 
+
