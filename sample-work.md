@@ -16,22 +16,22 @@ This project was an adaption from a conceptual example first presented through a
 
 **_The Implementation (basic):_** A package with multiple output options for tracking errors encountered during the development process of PL/SQL blocks of code.  No need to trap for individual exception conditions as all standard PL/SQL "ORA-" based error conditions are accounted for dynamically.<br>
 
-        --<br>
-        -- **ora-exception-handler**: Usage Pattern Example<br> 
+        --
+        -- **ora-exception-handler**: Usage Pattern Example 
 		--
         
-		DECLARE<br>
+		DECLARE
 		   ... Declarations Here
 		   
-		BEGIN<br>
+		BEGIN
            ... BODY of your PL/SQL code here
 
-        EXCEPTION<br>
-           WHEN Others THEN<br>
-              ERR_PKG.handle();  -- This is ALL!  The rest of the work is done by a relatively<br>
-			                     -- small PL/SQL package.
+        EXCEPTION
+           WHEN Others THEN
+              ERR_PKG.handle();  -- This is ALL!  The rest of the work is done by a relatively
+			         -- small PL/SQL package.
 
-        END;<br>			  
+        END;			  
 
 
 It is a notable project because it has followed me to many of the Oracle shops I have worked in.  Each time, it has changed with more little improvements.  This project has been available as an _OpenSource_ project roughly as long as the **Github Community** has been online.  It has only been recently that I have revisited it to build on the additional improvements that have evolved over this time.
