@@ -3,7 +3,7 @@ title: sample-work
 layout: post
 ---
 
-# Sample Work for `richpascual`<br>
+# Sample Work for _richpascual_<br>
 
 ## Open Source Projects Authored:<br>
 
@@ -50,7 +50,7 @@ Paired with my professional blog of the same name, I use this as an ongoing and 
 [Github Repository:  Project UGLYSQL](https://github.com/richardpascual/uglysql)<br>
 [Professional Blog @ UglySQL](http://uglysql.com)<br>
 
-<div align="center">[The UglySQL.com Front Page]![1]</div>
+<div align="center">![The UglySQL.com Front Page][1]</div>
 
 
 ##Side Projects:  Current Websites Maintained##
@@ -66,7 +66,7 @@ My interest in online and offline marketing techniques targeting small and mediu
 
 [Roguish Mumbling:  The Localbizgenius](http://rogue.localbizgenius.com)
 
-<div align="center">[Roguish Mumbling: Marketing Consultants Anonymous]![2]</div>
+<div align="center">![Roguish Mumbling: Marketing Consultants Anonymous][2]</div>
 
 
 **I Want More Coffee**
@@ -80,7 +80,7 @@ Some personally filtered and edited work includes samples from purchased private
 [The coffee Blog: http://iwantmorecoffee.com](http://iwantmorecoffee.com)
 
 
-<div align="center">[Can't Get Enough Coffee!]![1]</div>
+<div align="center">![Can't Get Enough Coffee!][3]</div>
 
 
 
