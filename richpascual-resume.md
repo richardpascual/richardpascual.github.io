@@ -1,5 +1,6 @@
-﻿---
+---
 title: richpascual-resume
+layout: post
 ---
 
 # RICHARD PASCUAL<br>
