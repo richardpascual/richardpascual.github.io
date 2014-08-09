@@ -1,28 +1,64 @@
-#Sample Work for richpascual#
+---
+title: sample-work
+layout: post
+---
 
+# Sample Work for _richpascual_
 
-##Open Source Projects Authored:##
+## Open Source Projects Authored:
 
 **Oracle PL/SQL Exception Handler:**
 
-This project was an adaption from a conceptual example first presented through an _O'Reilly Guide_ on PL/SQL.  I made this one on a locally hosted instance (my laptop) of Oracle Express (XE), although I have developed working variations of this code on the Enterprise Edition platform.
+This project was an adaption from a conceptual example first presented through an _O'Reilly Guide_ on the topic of programming reusable modules with PL/SQL.  I made this one on a locally hosted instance (my laptop) of Oracle Express (XE), although I have developed working variations of this code on the Enterprise Edition platform.
 
 [Github Project:  ora-exception-handler](https://github.com/richardpascual/ora-exception-handler)
 
 
+**_The Implementation (basic):_** A package with multiple output options for tracking errors encountered during the development process of PL/SQL blocks of code.  No need to trap for individual exception conditions as all standard PL/SQL "ORA-" based error conditions are accounted for dynamically.
+
+        --
+        -- **ora-exception-handler**: Usage Pattern Example 
+		--
+        
+		DECLARE
+		   ... Declarations Here
+		   
+		BEGIN
+           ... BODY of your PL/SQL code here
+
+        EXCEPTION
+           WHEN Others THEN
+              ERR_PKG.handle();  -- This is ALL!  The rest of the work is done by a relatively
+			         -- small PL/SQL package.
+
+        END;			  
+
+
+It is a notable project because it has followed me to many of the Oracle shops I have worked in.  Each time, it has changed with more little improvements.  This project has been available as an _OpenSource_ project roughly as long as the **Github Community** has been online.  It has only been recently that I have revisited it to build on the additional improvements that have evolved over this time.
+
+> See the results of a working demonstration:  [Exception Handler Demo](./demo-exception-handler.md)
+
+
+**_The Implementation (advanced):_** Some enhancements are in the works.  At present, there are small hacks already present in the existing code which allows expanded, but currently undocumented functionality.  _More plans soon to bring things up to date!_
+
+ 
 
 **The UGLYSQL Project:**
 
-Paired with my professional blog of the same name, I use this as an ongoing and growing repository of sample data schemas and interesting examples of SQL and PL/SQL concepts or code blocks that solve difficult or unusual (i.e., "ugly") query requirements.
+Paired with my professional blog of the same name, I use this as an ongoing and growing repository of sample data schemas and interesting examples of SQL and PL/SQL concepts or code blocks that solve difficult or unusual (i.e., "ugly") query requirements.<br>
 
-[Github Repository:  Project UGLYSQL](https://github.com/richardpascual/uglysql)
-[Professional Blog](http://uglysql.com)
+[Github Repository:  Project UGLYSQL](https://github.com/richardpascual/uglysql)<br>
+[Professional Blog @ UglySQL](http://uglysql.com)<br>
+
+<div align="center"><img src="images/uglysql-page.JPG"></div>
 
 
 
 ##Side Projects:  Current Websites Maintained##
 
 I maintain multiple online blogs and websites on different platforms.  I customize the look and design of each blog, write or curate content sourced ethically with proper attribution and from sources with clear licensing rights.
+
+In addition to managing the content of these pages, I also focus on experimenting with different avenues of site promotion, marketing and organic traffic "drivers".  Although I set up my sites for zero revenue streams (I do this for fun, not for profit), I do find the whole "net-popularity" aspect a fascinating super-cosm of your every-day high-school or college campus social network...
 
 
 **The LOCALBIZGENIUS.COM**
@@ -31,12 +67,22 @@ My interest in online and offline marketing techniques targeting small and mediu
 
 [Roguish Mumbling:  The Localbizgenius](http://rogue.localbizgenius.com)
 
+<div align="center"><img src="images/rogue-local-page.JPG"></div>
+
+
 
 **I Want More Coffee**
 
-Another dot-com project I developed.  Made instead on the Google Blogger Platform, the design is from a Google stock template with Creative Commons sourced images.  The work is a mix of personal reflections on various topics (tagged:  coffee-chat) as well as edited and remixed content on the topics of coffee history, culture and folklore from around the world.  Some filtered work includes modified samples from purchased private-label (PLR) authored content.
+Another dot-com project I developed.  Made instead on the `Google Blogger` Platform, the design is from a Google stock template with _Creative Commons_ sourced images.  The work is a mix of personal reflections on various topics (tagged:  **coffee-chat**) as well as edited and remixed content on the topics of coffee history, culture and folklore from around the world.  
 
-[The coffee Blog](http://iwantmorecoffee.com)
+> My first version of this site had nearly forty posts on researched content about coffee and its pervasive influences all around society, culture and even politics... until I mistakenly forgot to "pay the rent" on my website hosting contract.  Just a matter of a couple of weeks and everything was gone... :( Some of these hosting operators are absolutely ruthless!
+
+Some personally filtered and edited work includes samples from purchased private-label (PLR) authored content.  Check it out.  Most of it is just yammering about various current-event style topics, but I'm sure to get back to the whole core concept about "coffee" itself pronto.  
+
+[The coffee Blog: http://iwantmorecoffee.com](http://iwantmorecoffee.com)
+
+
+<div align="center"><img src="images/coffeeblog-page.JPG"></div>
 
 
 
@@ -77,7 +123,15 @@ This was a popular solution in my collection of contributions.  It shows how to 
 
 _Experimental PL/SQL Concepts_
 
-This discussion from a response I posted to _Stack Overflow_ explored the idea of using a relational MySql database (or some other equivallent) to develop solutions that simulated the behavior of two dimensional spreadsheet layouts.
+This discussion from a response I posted to _Stack Overflow_ explored the idea of using a relational MySql database (or some other equivalent) to develop solutions that simulated the behavior of two dimensional spreadsheet layouts.
 
 1. [Virtual Pivoted Data Sources](http://stackoverflow.com/questions/22126139/mysql-flexible-excel-like-structure/22188569#22188569)
+
+
+
+
+
+
+
+
 
