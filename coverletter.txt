@@ -1,10 +1,9 @@
 #The Carnegie Foundation for the Advancement of Teaching
-> Attn: Ms. Charlene Moran, Director of Human Resources
-> RE:   [Job Code CFDBD-0814](1) (Database Developer for Education Research)
+> Attn: Human Resources
+> RE:   Job Opening for Oracle Developer Advocate for SQL-150009IK
 
 
-
-Dear Ms. Charlene Moran and the Carnegie Foundation:
+Dear Oracle Hiring Staff:
 
 
 I am a database developer and software professional.  I make stuff and solve problems and I **absolutely love it**.  Whether it's the collaborative delivery team, the end-user community or the endless selection of emerging and even older (perhaps forgotten?) technical options, It is a rewarding arena to enter on behalf of any industry.
